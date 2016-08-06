@@ -1,0 +1,24 @@
+_repo: Meyers-Konversationslexikon-Band-15_10223
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: 'See ongoing work at: http://www.meyers-konversationslexikon.de'
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10223'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Encyclopedias and dictionaries'
+- !lcc 'AE'
+- GITenberg
+title: Meyers Konversationslexikon Band 15
+url: http://www.gutenberg.org/ebooks/10223
